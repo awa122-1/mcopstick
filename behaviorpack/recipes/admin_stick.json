@@ -1,0 +1,21 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mcmusic:admin_stick_recipe"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:barrier"
+      }
+    },
+    "result": {
+      "item": "mcmusic:admin_stick",
+      "count": 1
+    }
+  }
+}

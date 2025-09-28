@@ -1,0 +1,16 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "identifier": "admin:admin_stick",
+      "category": "equipment"
+    },
+    "components": {
+      "minecraft:icon": "blaze_rod",
+      "minecraft:max_stack_size": 1,
+      "minecraft:display_name": {
+        "value": "§c管理员权杖"
+      }
+    }
+  }
+}
