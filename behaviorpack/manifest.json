@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Admin Stick BP",
+    "description": "行为包 - 管理员权杖（烈焰棒版）",
+    "uuid": "b4c9f830-8c5a-11ef-a6a1-0242ac120002",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 100]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "b4c9fa5a-8c5a-11ef-a6a1-0242ac120002",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "c5d2e6b0-8c5a-11ef-a6a1-0242ac120002",
+      "version": [1, 0, 0]
+    }
+  ]
+}
