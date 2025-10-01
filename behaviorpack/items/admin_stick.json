@@ -2,7 +2,7 @@
   "format_version": "1.16.100",
   "minecraft:item": {
     "description": {
-      "identifier": "admin:admin_stick",
+      "identifier": "admin_stick",
       "category": "equipment"
     },
     "components": {
