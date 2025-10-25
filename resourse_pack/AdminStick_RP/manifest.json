@@ -1,0 +1,16 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "管理员之棍资源包",
+    "name": "Admin Stick RP",
+    "uuid": "7e8e0000-aaaa-bbbb-cccc-dddddddddddd",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "8f9f1111-aaaa-bbbb-cccc-eeeeeeeeeeee",
+      "version": [1, 0, 0]
+    }
+  ]
+}

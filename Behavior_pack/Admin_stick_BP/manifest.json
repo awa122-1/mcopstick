@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "管理员之棍行为包",
+    "name": "Admin Stick BP",
+    "uuid": "2b9b7771-1234-4e61-b7d5-13a4b8c11111",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 10]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "3c9b8882-1234-4e61-b7d5-13a4b8c22222",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "4d9b9993-1234-4e61-b7d5-13a4b8c33333",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "capabilities": ["script_eval"]
+}
